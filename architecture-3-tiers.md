@@ -21,4 +21,11 @@ L’architecture 3-Tiers (ou N-Tier) est une architecture logicielle qui sépare
 - Effectue les requêtes SQL, les insertions, mises à jour, suppressions.
 - Exemple : DAO (Data Access Object), ORM.
 
-
+## Illustration
+```bash
+[ Interface utilisateur ]
+        |
+[ Logique métier ]
+        |
+[ Accès aux données ]
+```
