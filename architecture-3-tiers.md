@@ -29,3 +29,9 @@ L’architecture 3-Tiers (ou N-Tier) est une architecture logicielle qui sépare
         |
 [ Accès aux données ]
 ```
+
+## Avantages
+
+- Séparation claire des responsabilités
+- Facilité de test et de maintenance
+- Possibilité de faire évoluer une couche sans impacter les autres
