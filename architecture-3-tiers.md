@@ -16,3 +16,9 @@ L’architecture 3-Tiers (ou N-Tier) est une architecture logicielle qui sépare
 - Traite les données reçues ou à envoyer.
 - Exemple : validations, calculs, logique de traitement.
 
+### 3. Couche d’accès aux données (Data Access Layer)
+- Gère l’interaction avec la base de données.
+- Effectue les requêtes SQL, les insertions, mises à jour, suppressions.
+- Exemple : DAO (Data Access Object), ORM.
+
+
