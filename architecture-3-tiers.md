@@ -11,4 +11,8 @@ L’architecture 3-Tiers (ou N-Tier) est une architecture logicielle qui sépare
 - Affiche les données et récupère les interactions.
 - Exemple : pages HTML, interfaces graphiques, applications mobiles.
 
+### 2. Couche métier (Business Logic Layer)
+- Contient les règles de gestion et la logique métier.
+- Traite les données reçues ou à envoyer.
+- Exemple : validations, calculs, logique de traitement.
 
