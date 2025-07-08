@@ -11,4 +11,10 @@ MVC est un modèle d’architecture qui permet de séparer une application en tr
 - Communique avec la base de données.
 - Exemple : objets, entités, services.
 
+### 2. Vue (View)
+- Gère l'affichage et la présentation des données.
+- Ne contient aucune logique métier.
+- Exemple : fichiers HTML, templates, interfaces graphiques.
+
+
 
