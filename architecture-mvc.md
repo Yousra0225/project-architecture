@@ -16,5 +16,10 @@ MVC est un modèle d’architecture qui permet de séparer une application en tr
 - Ne contient aucune logique métier.
 - Exemple : fichiers HTML, templates, interfaces graphiques.
 
+### 3. Contrôleur (Controller)
+- Intercepte les actions de l’utilisateur.
+- Met à jour le modèle ou la vue en conséquence.
+- Exemple : routes, gestionnaires d’événements.
+
 
 
