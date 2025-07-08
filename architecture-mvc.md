@@ -22,10 +22,17 @@ MVC est un modèle d’architecture qui permet de séparer une application en tr
 - Exemple : routes, gestionnaires d’événements.
 
 ## Flux de données
+
 ```bash 
 [ Utilisateur ]
      |
 [ Contrôleur ]
      |
 [ Modèle ] ---> [ Vue ]
+
 ```
+## Avantages
+
+- Structure claire du code
+- Séparation des responsabilités
+- Facilité de maintenance et de test
